@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/movies",
+      "handler": "Movie.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/movies/count",
+      "handler": "Movie.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/movies/:id",
+      "handler": "Movie.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/movies",
+      "handler": "Movie.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/movies/:id",
+      "handler": "Movie.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/movies/:id",
+      "handler": "Movie.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

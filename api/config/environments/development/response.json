@@ -1,0 +1,12 @@
+{
+  "gzip": {
+    "enabled": true
+  },
+  "responseTime": {
+    "enabled": true
+  },
+  "poweredBy": {
+    "enabled": false,
+    "value": "Strapi <strapi.io>"
+  }
+}

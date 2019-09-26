@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"poster\" must not have a selection since type \"String\" has no subfields.","locations":[{"line":9,"column":12}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"Movie_5d8c6c0e893a45e8ce3606d3"}}

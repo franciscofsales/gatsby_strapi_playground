@@ -1,0 +1,42 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-templates-movie-js",
+        "jsonName": "movie-5-d-8-c-6-c-03893-a-45-e-8-ce-3606-d-2-f94",
+        "path": "/Movie_5d8c6c03893a45e8ce3606d2"
+    },
+    {
+        "componentChunkName": "component---src-templates-movie-js",
+        "jsonName": "movie-5-d-8-c-76-e-360-c-81-b-0733-bb-7660-fb8",
+        "path": "/Movie_5d8c76e360c81b0733bb7660"
+    },
+    {
+        "componentChunkName": "component---src-templates-movie-js",
+        "jsonName": "movie-5-d-8-c-787-fb-9-a-3-f-03-cd-13-bc-728-5fb",
+        "path": "/Movie_5d8c787fb9a3f03cd13bc728"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "jsonName": "page-2-fbc",
+        "path": "/page-2/"
+    }
+]
